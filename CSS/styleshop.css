@@ -1,0 +1,9 @@
+.article{
+    height: 100px;
+}
+.image-logo{
+    width: 40px;
+}
+@media only screen and (max-width:764px){
+    
+}

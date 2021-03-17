@@ -1,0 +1,12 @@
+@media only screen and (max-width:1020px){
+    input{
+        width:20%;
+        margin-left: 1px;
+    }
+    #total{
+        font-size: 80%;
+    }
+    #check{
+        padding-left: -15px;
+    }
+}

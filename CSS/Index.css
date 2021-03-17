@@ -1,0 +1,11 @@
+
+.background{
+    background-image: url(/Images/bike-background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+.image-logo{
+    width: 40px;
+}
