@@ -10,3 +10,12 @@
         padding-left: -15px;
     }
 }
+@media only screen and (max-width:375px){
+    .row{
+        padding: 0 !important;
+    }
+    .col-1, .col-2, .col-3{
+        padding: 0 !important;
+        margin: 2px;
+    }
+}
